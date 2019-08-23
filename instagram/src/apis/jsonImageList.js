@@ -1,5 +1,5 @@
 import axios from 'axios';
 
 export default axios.create({
-  baseURL: 'https://images-api.nasa.gov/search'
+  baseURL: 'https://images-api.nasa.gov'
 });

@@ -1,10 +1,10 @@
 import React from 'react';
-import PostList from './PostList';
+import ImageList from './ImageList';
 
 const App = () => {
   return (
     <div className="ui container">
-      <PostList />
+      <ImageList />
     </div>
   );
 };
